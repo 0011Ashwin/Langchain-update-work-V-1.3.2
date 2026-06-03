@@ -8,4 +8,5 @@ Model introduction and working also how to call the model using chat_inti and mo
 Model integration wheree we work with Google gemini model and Groq - llama and openAI gpt-4.0-turbo 
 its on you what model you call during test notebook.
 
-*3-model coming soon...*
+*3-model tools connection with LLMs*
+In langchain without tool connection you agent connection and your system is just like body without brain that's we use tools in agent system and MCP works same.
