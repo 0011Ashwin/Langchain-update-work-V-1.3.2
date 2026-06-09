@@ -13,3 +13,8 @@ In langchain without tool connection you agent connection and your system is jus
 
 *4-model advance part coming soon*
 work coming.
+
+*5-model Structure output*
+model output should be in structure format same like we want 
+we use pydantic for this purpose.
+
