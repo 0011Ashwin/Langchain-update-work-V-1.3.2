@@ -16,5 +16,5 @@ work coming.
 
 *5-model Structure output*
 model output should be in structure format same like we want 
-we use pydantic for this purpose.
+we use pydantic for this purpose
 
