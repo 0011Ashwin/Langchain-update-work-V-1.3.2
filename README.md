@@ -18,3 +18,5 @@ work coming.
 model output should be in structure format same like we want 
 we use pydantic for this purpose
 
+*6 model coming soon*
+
