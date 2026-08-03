@@ -6,4 +6,5 @@ python-dotenv
 langchain-google-genai
 numpy
 pandas
+tensorflow
 ## Python work update
